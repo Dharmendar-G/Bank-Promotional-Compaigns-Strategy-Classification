@@ -1,4 +1,4 @@
-# Bank-Promotional-Compaigns-Strategy-Classification-Model
+# Bank-Promotional-Compaigns-Strategy-Classification
 To Classify whether the customer subscribed a term deposit or not 
 
 
